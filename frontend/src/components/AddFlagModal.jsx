@@ -115,7 +115,7 @@ function AddFlagModal() {
             <button
               type="submit"
               className="btn btn-primary min-w-[120px]"
-              disabled={!formData.name || !formData.description || !formData.image || !formData.difficulty || loading}
+              disabled={!formData.name || !formData.description || !formData.image || loading}
             >
               {loading ? (
                 <span className="loading loading-spinner loading-sm" />

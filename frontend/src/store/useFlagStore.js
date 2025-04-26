@@ -2,8 +2,8 @@ import { create } from "zustand";
 import axios from "axios";
 import toast from "react-hot-toast";
 
-const BASE_URL = import.meta.env.NODE === 'development' ? "http://localhost:3000" : "";
-// const BASE_URL = "http://localhost:3000";
+// const BASE_URL = import.meta.env.NODE === 'development' ? "http://localhost:3000" : "";
+const BASE_URL = "http://localhost:3000";
 
 export const useFlagStore = create((set, get) => ({
   flags: [],

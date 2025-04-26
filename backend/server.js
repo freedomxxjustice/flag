@@ -18,9 +18,11 @@ const __dirname = path.resolve();
 
 app.use(express.json());
 app.use(cors());
-app.use(helmet({
-  contentSecurityPolicy: false
-}));
+app.use(
+  helmet({
+    contentSecurityPolicy: false,
+  })
+);
 app.use(morgan());
 
 app.use(async (req, res, next) => {
@@ -57,12 +59,11 @@ app.use(async (req, res, next) => {
   }
 });
 
-
 app.use("/api/flags", flagRoutes);
 
 if (process.env.NODE_ENV === "production") {
   app.use(express.static(path.join(__dirname, "/frontend/dist")));
-  
+
   app.get("*", (req, res) => {
     res.sendFile(path.resolve(__dirname, "frontend", "dist", "index.html"));
   });
@@ -75,13 +76,15 @@ async function initDB() {
                 id SERIAL PRIMARY KEY,
                 name VARCHAR(255) NOT NULL,
                 description VARCHAR(255) NOT NULL,
-                difficulty DECIMAL(10, 2) NOT NULL,
+                difficulty DECIMAL(10, 2),
                 image VARCHAR(255) NOT NULL,
                 emoji VARCHAR(10),
                 created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
             )
         `;
-
+    await sql`
+      \copy flags FROM '../flags_full.csv' DELIMITER ',' CSV HEADER
+    `;
     console.log("initDb is successful");
   } catch (error) {
     console.log("Error initDB", error);
