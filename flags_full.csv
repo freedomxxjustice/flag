@@ -38,11 +38,8 @@ Chile,"South America, UN, PACI, G20",1.0,https://upload.wikimedia.org/wikipedia/
 China,"Asia, UN, BRICS",1.0,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1200px-Flag_of_the_People%27s_Republic_of_China.svg.png,🇨🇳
 Colombia,"South America, UN, G20",1.0,https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/1200px-Flag_of_Colombia.svg.png,🇨🇴
 Comoros,"Africa, UN, AU",1.0,https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/1200px-Flag_of_the_Comoros.svg.png,🇰🇲
-Congo,"Africa, UN, AU",1.0,"https://upload.wikimedia.org"">
-<link rel=""alternate"" media=""only screen and (max-width: 640px)"" href=""//en.m.wikipedia.org/wiki/Flag_of_the_Congo"">
-<link rel=""alternate"" type=""application/x-wiki"" title=""Edit this page"" href=""/w/index.php?title=Flag_of_the_Congo&amp;action=edit"">
-<link rel=""apple-touch-icon"" href=""/static/apple-touch/wikipedia.png",🇨🇬
-Congo (Democratic Republic),"Africa, UN, AU",1.0,,🇨🇩
+Congo,"Africa, UN, AU",1.0,https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/250px-Flag_of_the_Republic_of_the_Congo.svg.png,🇨🇬
+Congo (Democratic Republic),"Africa, UN, AU",1.0,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/250px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png,🇨🇩
 Costa Rica,"North America, UN",1.0,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/1200px-Flag_of_Costa_Rica.svg.png,🇨🇷
 Croatia,"Europe, UN, EU, NATO",1.0,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/1200px-Flag_of_Croatia.svg.png,🇭🇷
 Cuba,"North America, UN",1.0,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/1200px-Flag_of_Cuba.svg.png,🇨🇺
@@ -66,10 +63,7 @@ Finland,"Europe, UN, EU, NATO",1.0,https://upload.wikimedia.org/wikipedia/common
 France,"Europe, UN, EU, NATO",1.0,https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1200px-Flag_of_France.svg.png,🇫🇷
 Gabon,"Africa, UN, AU",1.0,https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/1200px-Flag_of_Gabon.svg.png,🇬🇦
 Gambia,"Africa, UN, AU",1.0,https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/1200px-Flag_of_The_Gambia.svg.png,🇬🇲
-Georgia,"Asia, UN, CIS, partially recognized",3.5,"https://upload.wikimedia.org"">
-<link rel=""alternate"" media=""only screen and (max-width: 640px)"" href=""//en.m.wikipedia.org/wiki/Flag_of_Georgia"">
-<link rel=""alternate"" type=""application/x-wiki"" title=""Edit this page"" href=""/w/index.php?title=Flag_of_Georgia&amp;action=edit"">
-<link rel=""apple-touch-icon"" href=""/static/apple-touch/wikipedia.png",🇬🇪
+Georgia,"Asia, UN, CIS, partially recognized",3.5,"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/330px-Flag_of_Georgia.svg.png",🇬🇪
 Germany,"Europe, UN, EU, G7",1.0,https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png,🇩🇪
 Ghana,"Africa, UN, AU",1.0,https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/1200px-Flag_of_Ghana.svg.png,🇬🇭
 Greece,"Europe, UN, EU, NATO",1.0,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/1200px-Flag_of_Greece.svg.png,🇬🇷
@@ -106,8 +100,8 @@ Jordan,"Asia, UN, OIC",1.0,https://upload.wikimedia.org/wikipedia/commons/thumb/
 Kazakhstan,"Asia, UN, CIS",1.0,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/1200px-Flag_of_Kazakhstan.svg.png,🇰🇿
 Kenya,"Africa, UN, AU",1.0,https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/1200px-Flag_of_Kenya.svg.png,🇰🇪
 Kiribati,"Oceania, UN, island nation",1.0,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/1200px-Flag_of_Kiribati.svg.png,🇰🇮
-Korea (North),"Asia, UN",1.0,,🇰🇵
-Korea (South),"Asia, UN, G20",1.0,,🇰🇷
+Korea (North),"Asia, UN",1.0,https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/250px-Flag_of_North_Korea.svg.png,🇰🇵
+Korea (South),"Asia, UN, G20",1.0,https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/250px-Flag_of_South_Korea.svg.png,🇰🇷
 Kuwait,"Asia, UN, GCC",1.0,https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/1200px-Flag_of_Kuwait.svg.png,🇰🇼
 Kyrgyzstan,"Asia, UN, CIS",1.0,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/1200px-Flag_of_Kyrgyzstan.svg.png,🇰🇬
 Laos,"Asia, UN",1.0,https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/1200px-Flag_of_Laos.svg.png,🇱🇦
